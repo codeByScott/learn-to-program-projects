@@ -5,7 +5,7 @@ Feel free to review, comment, and offer any suggestions for improvement.
 
 Thanks,  
 Scott Christensen  
-codebyscott.io
+[codebyscott.io](http://codebyscott.io)
 
 
 
