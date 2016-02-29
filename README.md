@@ -1,7 +1,11 @@
 # Learn to Program Projects
-## A repository of my ruby projects from Learn to Program by Chris Pine. 
+***
+This is a repository of my projects from Chris Pine's **[Learn to Program](https://pine.fm/LearnToProgram/)** book.  
+Feel free to review, comment, and offer any suggestions for improvement.
 
-Feel free to offer feedback on how I can improve my code.  
+Thanks,  
+Scott Christensen  
+[codebyscott.io](http://codebyscott.io)
 
 
 
