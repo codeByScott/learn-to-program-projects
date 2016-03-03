@@ -10,13 +10,7 @@ play_list = ['ozzy', 'metallica', 'pantera', 'slayer', 'deftones', 'nin']
 # p play_list.shuffle
 
 def shuffle(arr)
-  arr_copy = arr
-  shuffled = []
-  
-  while arr_copy.size > 0
-    shuffled << arr_copy.index(rand)
-  end
-  p shuffled
+  arr.sort_by { rand }
 end
 
-shuffle(play_list)
+p shuffle(play_list)
